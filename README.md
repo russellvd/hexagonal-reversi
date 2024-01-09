@@ -19,7 +19,8 @@ For more, visit: https://en.wikipedia.org/wiki/Reversi
 This project was undertaken with the adhering of OOP principles. As such, the following UML diagram could be useful in navigating the code (if one is curious about doing so).
 Method signatures, fields, are purposefully asbent due to the lengthy nature of the game. Instead, summaries about what each components do are offered. 
 
-[Blank diagram (2).pdf](https://github.com/russellvd/hexagonal-reversi/files/13867713/Blank.diagram.2.pdf)
+![Blank diagram](https://github.com/russellvd/hexagonal-reversi/assets/60278300/651fdf1b-a059-44fd-afe5-ab689ae2bab7)
+
 
 The project followed the Model–view–controller pattern for its design. 
 
